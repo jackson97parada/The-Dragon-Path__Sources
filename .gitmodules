@@ -1,3 +1,6 @@
 [submodule "Album_example"]
 	path = Album_example
 	url = https://github.com/jackson97parada/Album_example.git
+[submodule "Pricing_example"]
+	path = Pricing_example
+	url = https://github.com/jackson97parada/Pricing_example.git
