@@ -4,3 +4,6 @@
 [submodule "Pricing_example"]
 	path = Pricing_example
 	url = https://github.com/jackson97parada/Pricing_example.git
+[submodule "Product_example"]
+	path = Product_example
+	url = https://github.com/jackson97parada/Product_example.git
