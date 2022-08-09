@@ -8,7 +8,7 @@
 | [🏷️Pricing](https://jackson97parada.github.io/Pricing_example/) | [Git](https://github.com/jackson97parada/Pricing_example) |
 
 
-2. FLEXBOX
+2. CSS - FLEXBOX
 
 | Page | Repository | 
 | :--: | :--------: |
