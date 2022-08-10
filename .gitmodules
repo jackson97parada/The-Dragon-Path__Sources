@@ -7,3 +7,6 @@
 [submodule "Product_example"]
 	path = Product_example
 	url = https://github.com/jackson97parada/Product_example.git
+[submodule "Checkout_example"]
+	path = Checkout_example
+	url = https://github.com/jackson97parada/Checkout_example.git
