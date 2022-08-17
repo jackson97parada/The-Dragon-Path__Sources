@@ -12,7 +12,7 @@
 
 | Page | Repository | 
 | :--: | :--------: |
-| [📦Product](https://jackson97parada.github.io/Product_example/) | [Git](https://github.com/jackson97parada/Product_example) |
+| [📦Product...](https://jackson97parada.github.io/Product_example/) | [Git](https://github.com/jackson97parada/Product_example) |
 | [✅Checkout](https://jackson97parada.github.io/Checkout_example/) | [Git](https://github.com/jackson97parada/Checkout_example) |
 
 
