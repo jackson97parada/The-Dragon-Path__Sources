@@ -13,3 +13,6 @@
 [submodule "Blog_example"]
 	path = Blog_example
 	url = https://github.com/jackson97parada/Blog_example.git
+[submodule "Headers_example"]
+	path = Headers_example
+	url = https://github.com/jackson97parada/Headers_example.git
