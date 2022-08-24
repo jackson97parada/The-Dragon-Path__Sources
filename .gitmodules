@@ -16,3 +16,6 @@
 [submodule "Headers_example"]
 	path = Headers_example
 	url = https://github.com/jackson97parada/Headers_example.git
+[submodule "Heroes_example"]
+	path = Heroes_example
+	url = https://github.com/jackson97parada/Heroes_example.git
