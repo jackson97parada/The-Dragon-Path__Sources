@@ -27,4 +27,5 @@
 
 | Page | Repository | 
 | :--: | :--------: |
-| [👨‍🦱Headers](https://jackson97parada.github.io/BootstrapHeaders_example/) | [Git](https://github.com/jackson97parada/BootstrapHeaders_example) |
+| [👨‍🦱Headers](https://jackson97parada.github.io/Headers_example/) | [Git](https://github.com/jackson97parada/Headers_example) |
+| [🦸Heroes..](https://jackson97parada.github.io/Heroes_example/) | [Git](https://github.com/jackson97parada/Heroes_example) |
