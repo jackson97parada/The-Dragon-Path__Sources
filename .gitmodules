@@ -19,3 +19,6 @@
 [submodule "Heroes_example"]
 	path = Heroes_example
 	url = https://github.com/jackson97parada/Heroes_example.git
+[submodule "Features-example"]
+	path = Features-example
+	url = https://github.com/jackson97parada/Features-example.git
