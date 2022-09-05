@@ -22,3 +22,6 @@
 [submodule "Features-example"]
 	path = Features-example
 	url = https://github.com/jackson97parada/Features-example.git
+[submodule "Sidebars_example"]
+	path = Sidebars_example
+	url = https://github.com/jackson97parada/Sidebars_example.git
