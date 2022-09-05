@@ -30,3 +30,4 @@
 | [👨‍🦱Headers](https://jackson97parada.github.io/Headers_example/) | [Git](https://github.com/jackson97parada/Headers_example) |
 | [🦸Heroes..](https://jackson97parada.github.io/Heroes_example/) | [Git](https://github.com/jackson97parada/Heroes_example) |
 | [🔲Features](https://jackson97parada.github.io/Features_example/) | [Git](https://github.com/jackson97parada/Features_example) |
+| [↔Sidebars](https://jackson97parada.github.io/Sidebars_example/) | [Git](https://github.com/jackson97parada/Sidebars_example) |
