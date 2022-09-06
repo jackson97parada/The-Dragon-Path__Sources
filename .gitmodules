@@ -25,3 +25,6 @@
 [submodule "Sidebars_example"]
 	path = Sidebars_example
 	url = https://github.com/jackson97parada/Sidebars_example.git
+[submodule "Dropdowns_example"]
+	path = Dropdowns_example
+	url = https://github.com/jackson97parada/Dropdowns_example.git
