@@ -28,3 +28,6 @@
 [submodule "Dropdowns_example"]
 	path = Dropdowns_example
 	url = https://github.com/jackson97parada/Dropdowns_example.git
+[submodule "ListGroups_example"]
+	path = ListGroups_example
+	url = https://github.com/jackson97parada/ListGroups_example.git
