@@ -31,6 +31,7 @@
 | [🦸Heroes..](https://jackson97parada.github.io/Heroes_example/) | [Git](https://github.com/jackson97parada/Heroes_example) |
 | [🔲Features](https://jackson97parada.github.io/Features_example/) | [Git](https://github.com/jackson97parada/Features_example) |
 | [↔Sidebars](https://jackson97parada.github.io/Sidebars_example/) | [Git](https://github.com/jackson97parada/Sidebars_example) |
+| [🦿Footers](https://jackson97parada.github.io/Footers_example/) | [Git](https://github.com/jackson97parada/Footers_example) |
 | [📩Dropdowns](https://jackson97parada.github.io/Dropdowns_example/) | [Git](https://github.com/jackson97parada/Dropdowns_example) |
 | [👨‍👩‍👧‍👦ListGroups](https://jackson97parada.github.io/ListGroups_example/) | [Git](https://github.com/jackson97parada/ListGroups_example) |
-| [🦿Footers](https://jackson97parada.github.io/Footers_example/) | [Git](https://github.com/jackson97parada/Footers_example) |
+
