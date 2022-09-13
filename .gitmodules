@@ -31,3 +31,6 @@
 [submodule "ListGroups_example"]
 	path = ListGroups_example
 	url = https://github.com/jackson97parada/ListGroups_example.git
+[submodule "Footers_example"]
+	path = Footers_example
+	url = https://github.com/jackson97parada/Footers_example.git
