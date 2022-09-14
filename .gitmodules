@@ -34,3 +34,6 @@
 [submodule "Footers_example"]
 	path = Footers_example
 	url = https://github.com/jackson97parada/Footers_example.git
+[submodule "Modals_examples"]
+	path = Modals_examples
+	url = https://github.com/jackson97parada/Modals_examples.git
