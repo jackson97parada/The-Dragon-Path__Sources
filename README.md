@@ -36,3 +36,9 @@
 | [📩Dropdowns](https://jackson97parada.github.io/Dropdowns_example/) | [Git](https://github.com/jackson97parada/Dropdowns_example) |
 | [👨‍👩‍👧‍👦ListGroups](https://jackson97parada.github.io/ListGroups_example/) | [Git](https://github.com/jackson97parada/ListGroups_example) |
 
+2.1 BOOTSTRAP + SASS (LANDING PAGE)
+
+| Page | Repository | 
+| :--: | :--------: |
+| [💠Trafalgar](https://jackson97parada.github.io/Trafalgar_landingPage/) | [Git](https://github.com/jackson97parada/Trafalgar_landingPage) |
+
