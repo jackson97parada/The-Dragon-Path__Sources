@@ -37,3 +37,6 @@
 [submodule "Modals_examples"]
 	path = Modals_examples
 	url = https://github.com/jackson97parada/Modals_examples.git
+[submodule "Trafalgar_landingPage"]
+	path = Trafalgar_landingPage
+	url = https://github.com/jackson97parada/Trafalgar_landingPage.git
