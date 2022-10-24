@@ -40,3 +40,6 @@
 [submodule "Trafalgar_landingPage"]
 	path = Trafalgar_landingPage
 	url = https://github.com/jackson97parada/Trafalgar_landingPage.git
+[submodule "Components_examples"]
+	path = Components_examples
+	url = https://github.com/jackson97parada/Components_examples.git
