@@ -42,3 +42,9 @@
 | :--: | :--------: |
 | [💠Trafalgar](https://jackson97parada.github.io/Trafalgar_landingPage/) | [Git](https://github.com/jackson97parada/Trafalgar_landingPage) |
 
+3 TAILWIND
+
+| Page | Repository | 
+| :--: | :--------: |
+| [♻️Components](https://jackson97parada.github.io/Components_examples/) | [Git](https://github.com/jackson97parada/Components_examples) |
+
