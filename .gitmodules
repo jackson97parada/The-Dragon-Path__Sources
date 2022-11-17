@@ -43,3 +43,6 @@
 [submodule "Components_examples"]
 	path = Components_examples
 	url = https://github.com/jackson97parada/Components_examples.git
+[submodule "Navigations_examples"]
+	path = Navigations_examples
+	url = https://github.com/jackson97parada/Navigations_examples.git
