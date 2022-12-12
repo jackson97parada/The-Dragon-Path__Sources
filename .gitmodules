@@ -46,3 +46,6 @@
 [submodule "Navigations_examples"]
 	path = Navigations_examples
 	url = https://github.com/jackson97parada/Navigations_examples.git
+[submodule "Heroes_examples"]
+	path = Heroes_examples
+	url = https://github.com/jackson97parada/Heroes_examples.git
