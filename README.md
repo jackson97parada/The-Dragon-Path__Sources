@@ -47,4 +47,5 @@
 | Page | Repository | 
 | :--: | :--------: |
 | [♻️Components](https://jackson97parada.github.io/Components_examples/) | [Git](https://github.com/jackson97parada/Components_examples) |
+| [🛥️Navigations](https://jackson97parada.github.io/Navigations_examples/) | [Git](https://github.com/jackson97parada/Navigations_examples) |
 
