@@ -49,3 +49,6 @@
 [submodule "Heroes_examples"]
 	path = Heroes_examples
 	url = https://github.com/jackson97parada/Heroes_examples.git
+[submodule "FreeBies_landingPage"]
+	path = FreeBies_landingPage
+	url = https://github.com/jackson97parada/FreeBies_landingPage.git
