@@ -50,3 +50,8 @@
 | [🛥️Navigations](https://jackson97parada.github.io/Navigations_examples/) | [Git](https://github.com/jackson97parada/Navigations_examples) |
 | [🤓Heroes](https://jackson97parada.github.io/Heroes_examples/) | [Git](https://github.com/jackson97parada/Heroes_examples) |
 
+3.1 TAILWIND (LANDING PAGE)
+
+| Page | Repository | 
+| :--: | :--------: |
+| [🤖FreeBies](https://jackson97parada.github.io/FreeBies_landingPage/) | [Git](https://github.com/jackson97parada/FreeBies_landingPage) |
