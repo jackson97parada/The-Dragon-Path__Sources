@@ -48,4 +48,5 @@
 | :--: | :--------: |
 | [♻️Components](https://jackson97parada.github.io/Components_examples/) | [Git](https://github.com/jackson97parada/Components_examples) |
 | [🛥️Navigations](https://jackson97parada.github.io/Navigations_examples/) | [Git](https://github.com/jackson97parada/Navigations_examples) |
+| [🤓Heroes](https://jackson97parada.github.io/Heroes_examples/) | [Git](https://github.com/jackson97parada/Heroes_examples) |
 
